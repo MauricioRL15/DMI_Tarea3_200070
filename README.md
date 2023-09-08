@@ -1,16 +1,14 @@
 # tarea3_200070
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://github.com/MauricioRL15/Logos_UTXJ/blob/main/LOGO%20TIC.png?raw=true" alt="Imagen 1" width="200"; />
+    <img align="right" src="https://github.com/MauricioRL15/Logos_UTXJ/blob/main/LOGO%20UTXJ%202019.png?raw=true" alt="Imagen 2" width="300" height="80" />
+</div><br><br><br><br><br><br>
+<p align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</p>
+<div style="text-align: justify">
+Materia: Desarrollo Móvil Integral. <br>
+Alumno: Mauricio Ramírez López <br>
+Matrícula: 200070 <br>
+Tarea 03: Primeros cambios a la aplicación con Flutter. <br>
+Descripción: Se creó una aplicación con dart en Flutter, donde se cambio el color de fondo y la tipografía de la fuente. <br>
+Fecha entrega: 08 de septiembre del 2023
+</div>
